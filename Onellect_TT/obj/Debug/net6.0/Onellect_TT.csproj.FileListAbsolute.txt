@@ -1,0 +1,15 @@
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\bin\Debug\net6.0\Onellect_TT.exe
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\bin\Debug\net6.0\Onellect_TT.deps.json
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\bin\Debug\net6.0\Onellect_TT.runtimeconfig.json
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\bin\Debug\net6.0\Onellect_TT.dll
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\bin\Debug\net6.0\Onellect_TT.pdb
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\Onellect_TT.csproj.AssemblyReference.cache
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\Onellect_TT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\Onellect_TT.AssemblyInfoInputs.cache
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\Onellect_TT.AssemblyInfo.cs
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\Onellect_TT.csproj.CoreCompileInputs.cache
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\Onellect_TT.dll
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\refint\Onellect_TT.dll
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\Onellect_TT.pdb
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\Onellect_TT.genruntimeconfig.cache
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\ref\Onellect_TT.dll
