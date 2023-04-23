@@ -13,3 +13,4 @@ C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\refint\Onel
 C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\Onellect_TT.pdb
 C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\Onellect_TT.genruntimeconfig.cache
 C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\obj\Debug\net6.0\ref\Onellect_TT.dll
+C:\Users\Yakoo\source\repos\Onellect_TT\Onellect_TT\bin\Debug\net6.0\config.xml
